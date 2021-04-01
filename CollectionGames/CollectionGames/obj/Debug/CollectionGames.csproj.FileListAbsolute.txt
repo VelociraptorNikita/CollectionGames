@@ -1,0 +1,36 @@
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\CollectionGames.csprojAssemblyReference.cache
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.MetchingGame.resources
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.Menu.resources
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.Settings.resources
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\CollectionGames.csproj.GenerateResource.cache
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\nik61\Desktop\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.CrossZero.resources
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.csprojAssemblyReference.cache
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.Properties.Resources.resources
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.csproj.GenerateResource.cache
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.Menu.resources
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.Settings.resources
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.CrossZero.resources
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.MetchingGame.resources
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\bin\Debug\CollectionGames.exe.config
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\bin\Debug\CollectionGames.exe
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\bin\Debug\CollectionGames.pdb
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.exe
+C:\Users\nik61\Desktop\CollectionGames\MatchingGame\obj\Debug\CollectionGames.pdb
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\bin\Debug\CollectionGames.exe.config
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\bin\Debug\CollectionGames.exe
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\bin\Debug\CollectionGames.pdb
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.csprojAssemblyReference.cache
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.CrossZero.resources
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.MetchingGame.resources
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.Menu.resources
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.Properties.Resources.resources
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.Settings.resources
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.csproj.GenerateResource.cache
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.exe
+C:\Users\nik61\Desktop\CollectionGames\CollectionGames\obj\Debug\CollectionGames.pdb

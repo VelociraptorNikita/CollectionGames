@@ -1,0 +1,35 @@
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.Menu.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Game.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Menu.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.Game.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия\MatchingGame\obj\Debug\MatchingGame.Settings.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.Game.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.Menu.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.Settings.resources
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Никита\Desktop\Проба работы с графикой\MatchingGame - копия - копия\MatchingGame\obj\Debug\MatchingGame.pdb
